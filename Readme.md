@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/541278734498660362?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/541278734498660362)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852634249714597918?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852634249714597918)
 
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=Niwren&show_icons=true&theme=gradient) 
